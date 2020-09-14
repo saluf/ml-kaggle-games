@@ -1,7 +1,7 @@
 # Kaggle Games
 This repo collects my notebooks of Kaggle, a data science competition site, games.
 
-## Quick Start
+### Quick Start
 1. clone the repository.
 
 ```
