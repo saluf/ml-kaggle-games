@@ -133,3 +133,6 @@ dmypy.json
 
 # output submission file
 **/submission.csv
+
+# folders no need to be tracked
+**/ignore/
